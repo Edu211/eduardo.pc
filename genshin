@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<lang=html="pt+br">
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Genshin.CSS">
+		<title>Genshin</title>
+	</head>
+	<body>
+		<h1 id=h1><strong> SOBRE GENSHIN </strong></h1>
+
+		<p>Genshin impact é um jogo de mundo aberto, em que o jogador precisa se aventurar e concluir missoes para encontrar sua irmã(o) que foi aprisionado por uma <em><strong>deusa desconhecida</strong></em> </p>
+
+		<p>Em sua aventura você tera que ajudar varias nações e coletar informações para encontrar sua irmã(o)</p>
+      
+    <h1 id=h1> <strong>Entre as nações podemos encontrar:</strong></h1>
+    <p><strong>Mondsted</strong>,a nação do vento e da liberdade(anemo)</p>
+	<p><strong>Lyue</strong>,nação do Deus dos contratos(geo)</p>
+	<p><strong>Inazuma</strong>,a nação da eternidade (electro)</p>
+	<p><strong>Sumero</strong>,a nação do conhecimento (dendro)</p>
+	<p><strong>Fontaine</strong></p>
+	</body>
+</html>
