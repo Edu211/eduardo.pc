@@ -1,7 +1,7 @@
-body{
+body{            
 	color: white;
-	background-color: black;
-}
+	background-color: black;              
+}                                
 h1{
 	text-align: center;
 	color: rebeccapurple;
@@ -24,7 +24,6 @@ e1{
 }
 e2{
 	text-align: center;
-
 }
 h3{
 	text-align: center;
@@ -47,20 +46,45 @@ u{
 	color: green;
 	font-size: 25px;
 }
-h6{
-	margin-left: 10%;  
-	height: 350px;
+g{
+	margin-left: 3%; 
+	height: 350px ;
 }
-q{ margin-left: 0%;
+k{ margin-left: 1%;
 	height: 350px;
-	background-color: olive;
+	
 }
 i{
-   
+   margin-left: 4%;
+   height: 350px;
 }
 a{
-
+  margin-left: 5%;
+  height: 350px;
 }
 s{
-
+  margin-left: 10%;
+  height: 350px;
 }
+h6{
+	text-align:center ;
+	font-size: 30px;
+	color: darkred;
+	background-color: purple;
+} 
+tt{
+	font-size: 25px;
+	color: deeppink;
+	text-align: center;
+}
+dd{
+	margin-left: 10px;
+	height: 360px;
+}
+center{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	background-color: darkred;
+}
+
